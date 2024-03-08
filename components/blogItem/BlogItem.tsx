@@ -6,8 +6,8 @@ import React from 'react'
 const BlogItem = () => {
   return (
     <div>
-        <Link href={`/user/asdf/blog/asdf`}>Blog</Link>
-        <Link href={`/user/asdf/edit`}>Edit</Link>
+        <Link href={`/asdf/blog/asdfs`}>Blog</Link>
+        <Link href={`/asdf/edit`}>Edit</Link>
         <button>Delete</button>
     </div>
   )
